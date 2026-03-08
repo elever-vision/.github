@@ -7,25 +7,25 @@
 
 # Elever Vision
 
-### Do alto da visão, transformamos dados em valor estrategico.
+### Do alto da visão, transformamos dados em valor estratégico.
 
 Somos uma consultoria especializada em **Engenharia de Dados & Analytics**.
-Ajudamos empresas a subir a montanha da complexidade tecnologica
-para alcancar uma visao clara, estrategica e sustentavel.
+Ajudamos empresas a subir a montanha da complexidade tecnológica
+para alcançar uma visão clara, estratégica e sustentável.
 
 ---
 
 </div>
 
-## Sobre nos
+## Sobre nós
 
-A Elever Vision nasceu com o proposito de transformar dados em valor estrategico, unindo tecnologia, visao integrada e governanca solida. Atuamos como guias confiaveis: mostramos o caminho, nao apenas entregamos ferramentas.
+A Elever Vision nasceu com o propósito de transformar dados em valor estratégico, unindo tecnologia, visão integrada e governança sólida. Atuamos como guias confiáveis: mostramos o caminho, não apenas entregamos ferramentas.
 
 **Filosofia**
 
-- **Decisao Consciente**: dados como bussola que orienta escolhas estrategicas
-- **Excelencia Estrutural**: solucoes solidas, escalaveis e sustentaveis
-- **Clareza acima da complexidade**: traduzimos densidade tecnica em visao acessivel
+- **Decisão Consciente**: dados como bússola que orienta escolhas estratégicas
+- **Excelência Estrutural**: soluções sólidas, escaláveis e sustentáveis
+- **Clareza acima da complexidade**: traduzimos densidade técnica em visão acessível
 
 ## O que fazemos
 
@@ -35,30 +35,30 @@ A Elever Vision nasceu com o proposito de transformar dados em valor estrategico
 
 **Engenharia de Dados**
 
-Arquitetura Lakehouse com Databricks, Spark e Delta Lake. Pipelines de ingestao, ETL e integracao de dados em escala.
+Arquitetura Lakehouse com Databricks, Spark e Delta Lake. Pipelines de ingestão, ETL e integração de dados em escala.
 
 </td>
 <td width="50%">
 
 **Analytics & BI**
 
-Dashboards estrategicos e relatorios inteligentes com Power BI e Microsoft Fabric. De dados brutos a insights acionaveis.
+Dashboards estratégicos e relatórios inteligentes com Power BI e Microsoft Fabric. De dados brutos a insights acionáveis.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**Governanca e Arquitetura**
+**Governança e Arquitetura**
 
-Unity Catalog, RBAC, qualidade e compliance. Estrutura que sustenta decisoes corretas e resultados de longo prazo.
+Unity Catalog, RBAC, qualidade e compliance. Estrutura que sustenta decisões corretas e resultados de longo prazo.
 
 </td>
 <td width="50%">
 
-**Consultoria Estrategica**
+**Consultoria Estratégica**
 
-Alinhamos tecnologia, negocio e inovacao. Dados transformados em decisoes sustentaveis para o futuro da sua organizacao.
+Alinhamos tecnologia, negócio e inovação. Dados transformados em decisões sustentáveis para o futuro da sua organização.
 
 </td>
 </tr>
@@ -66,10 +66,10 @@ Alinhamos tecnologia, negocio e inovacao. Dados transformados em decisoes susten
 
 ## Metodologia LIM
 
-Desenvolvemos o **LIM (Lakehouse Implementation Methodology)**, um framework proprietario para implantacao end-to-end de projetos Lakehouse. Cobre 10 grandes entregas: da concepcao estrategica a evolucao continua da plataforma.
+Desenvolvemos o **LIM (Lakehouse Implementation Methodology)**, um framework proprietário para implantação end-to-end de projetos Lakehouse. Cobre 10 grandes entregas: da concepção estratégica à evolução contínua da plataforma.
 
 ```
-Concepcao → Fundacao → Ingestao → Bronze → Silver → Gold → Produtos → Governanca → Operacoes → Evolucao
+Concepção → Fundação → Ingestão → Bronze → Silver → Gold → Produtos → Governança → Operações → Evolução
 ```
 
 ## Stack
